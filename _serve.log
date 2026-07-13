@@ -1,0 +1,274 @@
+﻿
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 13ms
+Found 2 input files from `C:\Users\adminpd\Desktop\연대지능-위키` in 14ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for C:\Users\adminpd\Desktop\연대지능-위키
+Parsed 2 Markdown files in 170ms
+Filtered out 0 files in 69μs
+Emitting files
+Emitted 50 files to `public` in 862ms
+Done processing 2 files in 1s
+Started a Quartz server listening at http://localhost:8080
+hint: exit with ctrl+c
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/contentIndex.json
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /static/icon.png
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /%EC%97%B0%EB%8C%80%EA%B2%BD%EC%A0%9C-%EC%BB%A4%EB%A8%BC%EC%A6%88
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 12ms
+Found 2 input files from `C:\Users\adminpd\Desktop\연대지능-위키` in 4ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for C:\Users\adminpd\Desktop\연대지능-위키
+Parsed 2 Markdown files in 22ms
+Filtered out 0 files in 64μs
+Emitting files
+Emitted 50 files to `public` in 941ms
+Done processing 2 files in 982ms
+[200] /
+[200] /
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /prescript.js
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-4abc06bd.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-274a3dfe.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /component-94cb6c84.css
+[200] /static/resource-style-6bd36952.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/contentIndex.json
+[200] /postscript.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /favicon.ico
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 63ms
+Found 2 input files from `C:\Users\adminpd\Desktop\연대지능-위키` in 4ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for C:\Users\adminpd\Desktop\연대지능-위키
+Parsed 2 Markdown files in 22ms
+Filtered out 0 files in 29μs
+Emitting files
+Emitted 50 files to `public` in 868ms
+Done processing 2 files in 958ms
+[200] /
+[200] /
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-e427079e.css
+[200] /component-2911f5d1.css
+[200] /component-bbc3f7c0.css
+[200] /component-589c1cea.css
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-style-9857b007.css
+[200] /prescript.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /static/resource-after-8b336f9a.js
+[200] /postscript.js
+[200] /static/resource-after-baba652b.js
+[200] /static/contentIndex.json
+[200] /static/contentIndex.json
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /favicon.ico
